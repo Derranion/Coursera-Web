@@ -1,2 +1,3 @@
 # Coursera-Web
-html-css-javascript-for-web-developers
+
+Course consist of: html-css-javascript-for-web-developers
